@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">InputScore</string>
+    <string name="btn_ok">OK</string>
+    <string name="btn_cancel">CANCEL</string>
+    <string name="java">JAVA</string>
+    <string name="c">C</string>
+</resources>
